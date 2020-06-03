@@ -21,6 +21,3 @@ An account that's negative for 3 years (-3) and is of the type student and an ac
 ### Testing:
 The big testing requirement is that we get 100% coverage on testing endpoints and helper functions for the API. That will allow any new clients to be updated and or added instantly with out much effort **TM**.
 
-### Auth
-We can use LDAP login for cli initially but we will need to switch to our SSO setup when that's ready
-
