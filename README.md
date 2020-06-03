@@ -21,3 +21,10 @@ An account that's negative for 3 years (-3) and is of the type student and an ac
 ### Testing:
 The big testing requirement is that we get 100% coverage on testing endpoints and helper functions for the API. That will allow any new clients to be updated and or added instantly with out much effort **TM**.
 
+### Version 1.0.0 Goals
+- [ ] CRUD operations for LDAP users
+- [ ] Year rollover operations
+- [ ] Group operations for group permissions
+- [ ] /home and /webtree updates for the creation and moving of accounts
+- [ ] Quota controls for the new quota system
+- [ ] Mail operations for auto-enrollment into the default mailing lists
