@@ -1,0 +1,36 @@
+add                 Works
+delete              Works
+renew               Works
+update              Works
+altmail             Works
+activate            Works - Don't fucking touch it | worth a discussion
+rename              Kinda Works - Home dirs are still fucked iirc and nothing for vhosts
+convert             Kinda Works - Nothing for vhosts
+resetpw             Works
+resetsh             Works
+disuser             Kinda works just changes shell
+reuser              Same
+setshell            Works
+show                Works
+info                Works - is a subset of show i'm not really sure why this exists
+freename            Works
+search              Not Implemented
+sync                Was Used for RRS (Redbrick Registration System IIRC) - this doesn't exist really 
+sync_dcu_info       Not Implemented on a -T which might refer to the flag
+newyear             Broken - hasn't been used in years
+unpaid_warn         Broken - hasn't been used in years
+unpaid_disable      Broken - hasn't been used in years
+unpaid_delete       Broken - hasn't been used in years
+pre_sync            Works but hasn't been used
+list_users          Works
+list_unavailable    Works
+list_newbies        Works
+list_renewals       Works
+list_unpaid         Works
+list_unpaid_normal  Works
+list_unpaid_reset   Works
+list_unpaid_grace   Works
+checkdb             Works
+stats               Works
+create_uidNumber    Works
+
